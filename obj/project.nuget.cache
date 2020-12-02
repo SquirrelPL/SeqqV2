@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tErrFDR+acxkuSxK1mwsjOS+uCRdqil8PEzC5U7i7X8q5KeSXOPqeV22spYsZRK0R6ealzQXRrCPWMrYPpgjHg==",
+  "dgSpecHash": "cZGrf3qo2NixAKy7lUa8KfSJiTN+m0PvUum9cuIs6GezPz15sGQi3/MMF34KYKgNn7PQgN3qulzMPmfI7NXrIA==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\Seqq\\SeqqV2.csproj",
+  "projectFilePath": "D:\\Repos\\SeqqV2\\SeqqV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Patrycja\\.nuget\\packages\\discord.net\\2.2.0\\discord.net.2.2.0.nupkg.sha512",
     "C:\\Users\\Patrycja\\.nuget\\packages\\discord.net.commands\\2.2.0\\discord.net.commands.2.2.0.nupkg.sha512",
